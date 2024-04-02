@@ -1,5 +1,5 @@
 # ChatBot em Python usando NLTK
-![image](/assets/main_py (1).png)
+![image](/assets/main_py.png)
 Este é um projeto simples de chatbot implementado em Python usando a biblioteca NLTK (Natural Language Toolkit). O objetivo deste projeto é fornecer um exemplo básico de como criar um chatbot capaz de interagir com os usuários em linguagem natural.
 
 ## Como Funciona
