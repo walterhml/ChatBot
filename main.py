@@ -2,7 +2,7 @@ import nltk
 from nltk.chat.util import Chat, reflections
 
 
-# padão de resposta do chat bot em mensagens
+# padrão de resposta do chat bot em mensagens
 pares = [
     [
         r"oi|olá|e ai",
